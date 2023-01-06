@@ -1,1 +1,4 @@
-To run the code, follow this command: gcc main.c encrypt.c tweaes-128.c
+To run the code, follow these commands: 
+
+1. gcc main.c encrypt.c tweaes-128.c
+2. ./a.out
